@@ -1,0 +1,33 @@
+body{
+    
+    background-color: rgb(255, 75, 90) !important;
+}
+.jumbotron{
+    background-color: black !important;
+}
+h1{
+    color: rgb(255, 255, 135) !important;
+    font-size: 70px !important;
+}
+header{
+    padding: 0;
+    margin: 0;
+}
+button{
+    border-radius: 15% !important;
+    background-color: black;
+    color: white !important;
+}
+#cont{
+    background-color:rgb(255, 255, 135);
+    border-radius: 5% ;
+    color: black;
+    border: black solid;
+}
+#cube {
+    box-shadow: black 0 4px 6px;
+    border-radius: 1rem;
+    border: 3px solid rgb(0, 0, 0);
+    filter:sepia()
+}
+
